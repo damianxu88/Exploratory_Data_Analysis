@@ -14,7 +14,7 @@ rm(hhpc_FullData)
 # Convert 'Date' and 'Time' into date/time class
 hhpc_Data$DateTime <- with(hhpc_Data, as.POSIXct(paste(Date, Time, sep = " ")))
 
-# Set up variables for margins, position etc
+# Set up variables for margins, positions etc
 par(mfrow=c(2,2), 
     mar=c(4,4,2,1), 
     oma=c(0,0,2,0))
