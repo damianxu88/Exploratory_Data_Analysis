@@ -1,5 +1,5 @@
 # Exploratory Data Analysis
-My respository for 'Exploratory Data Analysis' course on Coursera
+Welcome to my respository for 'Exploratory Data Analysis' course on Coursera
 
 Assignment 1: 
 * 4 R files and their respective png plots generated
